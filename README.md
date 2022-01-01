@@ -7,7 +7,7 @@
 
 ### Demo video
 
-![](https://github.com/Mira0507/spotify/blob/demo/demo.gif)
+![](https://github.com/Mira0507/spotify/blob/master/demo.gif)
 
 ### Demo script
 
