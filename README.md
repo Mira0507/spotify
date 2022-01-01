@@ -11,5 +11,5 @@
 
 ### Demo script
 
-[Click](https://github.com/Mira0507/spotify/blob/demo/app.R)
+[Click](https://github.com/Mira0507/spotify/blob/master/app.R)
 
